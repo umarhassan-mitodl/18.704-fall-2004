@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "legacy_uid": "ac821271-90fd-736b-1221-ee68ae125436",
+  "instructors": {
+    "content": [
+      "d0694d56-9729-3857-e105-867f62d2ffd8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "071b4152-ee6a-d670-80f8-97508e007042",
+    "website": "18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004"
+  },
+  "course_title": "Seminar in Algebra and Number Theory: Rational Points on Elliptic Curves",
+  "course_description": "This is a seminar for mathematics majors, where the students present the lectures. No prior experience giving lectures is necessary.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.704",
+  "course_image_thumbnail": {
+    "content": "2ba22980-a28c-958f-385a-b5f378e388c0",
+    "website": "18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "1b08ff6e-7786-44b6-a275-5f1312f2aaac",
+  "site_short_id": "18.704-fall-2004",
+  "site_url_path": "courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004",
+  "title": "Course Metadata"
+}
