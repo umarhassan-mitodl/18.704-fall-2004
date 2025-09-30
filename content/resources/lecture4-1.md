@@ -4,6 +4,8 @@ description: ''
 file: /courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/7d50d4ca08f262c76dbfb57fe6725788_lecture4.pdf
 file_size: 339747
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

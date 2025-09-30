@@ -5,6 +5,8 @@ description: 'Solutions to the  problems assigned from the course textbook: "Rat
 file: /courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/e51bc35730e4f5acd50d9cf19e565cc7_hw8_sols.pdf
 file_size: 79441
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
