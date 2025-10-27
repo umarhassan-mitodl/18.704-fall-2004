@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: These are directions suggested to students on how to prepare their lectures.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

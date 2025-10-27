@@ -6,8 +6,6 @@ description: 'Three problems assigned from the course textbook: "Rational Points
 file: /courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/07c154ebc7a029b802980db262d5bef0_hw2_probs.pdf
 file_size: 42302
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
